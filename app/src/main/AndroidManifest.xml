@@ -16,6 +16,9 @@
             android:name=".UniversityDetailActivity"
             android:exported="false" />
         <activity
+            android:name=".StateDetailActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

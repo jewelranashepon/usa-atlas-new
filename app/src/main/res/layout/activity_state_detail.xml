@@ -31,7 +31,8 @@
                 android:layout_height="200dp"
                 android:scaleType="fitCenter"
                 android:layout_marginBottom="16dp"
-                android:contentDescription="@string/state_map_description" />
+                android:contentDescription="@string/state_map_description"
+                android:src="@drawable/map_usa" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -78,4 +79,3 @@
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
-
