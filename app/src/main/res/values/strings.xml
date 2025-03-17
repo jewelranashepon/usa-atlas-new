@@ -1,0 +1,131 @@
+<resources>
+    <!--  App  -->
+    <string name="app_name">USA Atlas</string>
+    <string name="app_description">Your complete guide to the United States</string>
+    <string name="app_logo">App Logo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--  Menu  -->
+    <string name="menu_states">US States</string>
+    <string name="menu_emergency">Emergency Services</string>
+    <string name="menu_tourism">Tourist Destinations</string>
+    <string name="menu_universities">Universities</string>
+    <string name="menu_geography">Geography</string>
+    <string name="menu_traffic">Traffic Rules</string>
+    <string name="menu_visitor_info">Visitor Information</string>
+    <!--  States  -->
+    <string name="states_header">United States of America</string>
+    <string name="capital_label">Capital: %1$s</string>
+    <string name="population_label">Population: %1$s</string>
+    <string name="state_flag_description">State flag</string>
+    <string name="state_map_description">State map</string>
+    <string name="state_info_header">State Information</string>
+    <string name="state_history_header">History</string>
+    <string name="state_facts_header">Interesting Facts</string>
+    <!--  California Info  -->
+    <string name="california_info">Capital: Sacramento\nPopulation: 39.5 million\nArea: 163,696 sq mi\nAdmitted to Union: September 9, 1850 (31st state)\nGovernor: Gavin Newsom</string>
+    <string name="california_history">California became a U.S. territory in 1847 when Mexico surrendered it to John C. Frémont. On September 9, 1850, California was admitted to the Union as the 31st state. The California Gold Rush beginning in 1848 led to dramatic social and demographic changes.</string>
+    <string name="california_facts">• California is the most populous U.S. state\n• It has the largest economy of any state\n• Home to Hollywood, Silicon Valley, and Napa Valley\n• Has the highest and lowest points in the contiguous United States\n• The state tree is the California Redwood</string>
+    <!--  New York Info  -->
+    <string name="new_york_info">Capital: Albany\nPopulation: 19.5 million\nArea: 54,555 sq mi\nAdmitted to Union: July 26, 1788 (11th state)\nGovernor: Kathy Hochul</string>
+    <string name="new_york_history">New York was one of the original 13 colonies that formed the United States. It was admitted to the union on July 26, 1788. The state played a crucial role in the American Revolution and later became the nation\'s leading financial and cultural center.</string>
+    <string name="new_york_facts">• New York City is the most populous city in the United States\n• The state is home to Niagara Falls\n• Wall Street in NYC is the financial center of the US\n• The state has 11 Finger Lakes\n• The Erie Canal connects the Great Lakes to the Atlantic Ocean</string>
+    <!--  Texas Info  -->
+    <string name="texas_info">Capital: Austin\nPopulation: 29 million\nArea: 268,596 sq mi\nAdmitted to Union: December 29, 1845 (28th state)\nGovernor: Greg Abbott</string>
+    <string name="texas_history">Texas was an independent republic from 1836 until its annexation by the United States in 1845. Before that, it was part of Mexico. The state\'s name comes from the Caddo word \"tejas\" meaning \"friends\" or \"allies\".</string>
+    <string name="texas_facts">• Texas is the second largest state by area and population\n• It was an independent republic before joining the US\n• Six flags have flown over Texas (Spain, France, Mexico, Republic of Texas, Confederate States, USA)\n• The state produces more oil than any other state\n• The King Ranch is larger than the state of Rhode Island</string>
+    <!--  Default State Info  -->
+    <string name="default_state_info">Detailed information about %1$s would be displayed here.</string>
+    <string name="default_state_history">Historical information about %1$s would be displayed here.</string>
+    <string name="default_state_facts">Interesting facts about %1$s would be displayed here.</string>
+    <!--  Emergency  -->
+    <string name="emergency_header">Emergency Services in the USA</string>
+    <string name="emergency_services">Emergency Services</string>
+    <string name="emergency_services_desc">For immediate emergency assistance (Police, Fire, Medical)</string>
+    <string name="community_services">Community Services</string>
+    <string name="community_services_desc">For information about local resources</string>
+    <string name="poison_control">Poison Control</string>
+    <string name="poison_control_desc">For poisoning emergencies</string>
+    <string name="suicide_prevention">National Suicide Prevention Lifeline</string>
+    <string name="suicide_prevention_desc">For mental health crisis</string>
+    <string name="dating_abuse_helpline">National Dating Abuse Helpline</string>
+    <string name="dating_abuse_helpline_desc">For relationship abuse support</string>
+    <string name="fema">FEMA</string>
+    <string name="fema_desc">Federal Emergency Management Agency for disaster assistance</string>
+    <string name="call_button">Call</string>
+    <!--  Tourism  -->
+    <string name="tourism_header">Tourist Destinations</string>
+    <string name="destination_image_description">Destination image</string>
+    <string name="description_header">Description</string>
+    <string name="visit_info_header">Visitor Information</string>
+    <!--  Tourist Destinations  -->
+    <string name="grand_canyon_desc">One of the world\'s natural wonders, the Grand Canyon is carved by the Colorado River.</string>
+    <string name="statue_liberty_desc">A symbol of freedom and democracy, gifted by France in 1886.</string>
+    <string name="disney_world_desc">The most visited vacation resort in the world.</string>
+    <string name="golden_gate_desc">An iconic suspension bridge spanning the Golden Gate strait.</string>
+    <string name="yellowstone_desc">The first national park in the U.S., known for its wildlife and geothermal features.</string>
+    <string name="las_vegas_desc">Famous for its concentration of resort hotels and casinos.</string>
+    <string name="times_square_desc">Major commercial intersection and entertainment center in New York City.</string>
+    <string name="niagara_falls_desc">A group of three waterfalls at the southern end of Niagara Gorge.</string>
+    <string name="grand_canyon_visit_info">Best time to visit: March to May and September to November\nEntrance fee: $35 per vehicle\nNearest airports: Phoenix Sky Harbor International Airport and Las Vegas McCarran International Airport\nAccommodation: Lodges inside the park or hotels in nearby towns</string>
+    <string name="statue_liberty_visit_info">Best time to visit: April to June and September to October\nFerry ticket: $24 for adults\nNearest airport: Newark Liberty International Airport and JFK International Airport\nAccommodation: Hotels in New York City</string>
+    <string name="default_visit_info">Information about visiting this destination would be displayed here, including best times to visit, ticket prices, transportation options, and accommodation recommendations.</string>
+    <!--  Universities  -->
+    <string name="university_info_header">Hello University</string>
+    <string name="admission_info_header">Admission Info Header</string>
+    <string name="programs_header">Programs header</string>
+    <string name="campus_info_header">Campus Info Header</string>
+    <string name="universities_header">Top Universities in the USA</string>
+    <string name="university_image_description">University campus</string>
+    <string name="default_university_info">Default</string>
+    <!--  University Descriptions  -->
+    <string name="harvard_desc">Founded in 1636, Harvard is the oldest institution of higher education in the United States.</string>
+    <string name="stanford_desc">Located in Silicon Valley, Stanford is known for its entrepreneurial spirit and close ties to the tech industry.</string>
+    <string name="mit_desc">Massachusetts Institute of Technology is renowned for its research and education in physical sciences and engineering.</string>
+    <string name="yale_desc">Founded in 1701, Yale is known for its excellent drama and music programs.</string>
+    <string name="princeton_desc">Princeton emphasizes undergraduate education and offers strong programs in humanities.</string>
+    <string name="columbia_desc">Located in New York City, Columbia offers a diverse and international environment.</string>
+    <string name="chicago_desc">Known for its economics, law, and business programs.</string>
+    <string name="berkeley_desc">The flagship campus of the University of California system, known for its research.</string>
+    <!--  Geography  -->
+    <string name="geography_title">Geography of the United States</string>
+    <string name="usa_map_description">Map of the United States</string>
+    <string name="geography_overview_title">Overview</string>
+    <string name="geography_overview_content">The United States spans 3.8 million square miles (9.8 million km²), making it the third or fourth largest country by total area. It consists of 50 states and a federal district (Washington D.C.). The country is bordered by Canada to the north, Mexico to the south, the Atlantic Ocean to the east, and the Pacific Ocean to the west.</string>
+    <string name="major_regions_title">Major Geographic Regions</string>
+    <string name="major_regions_content">• Atlantic Coastal Plain: Low, flat land along the Atlantic Ocean\n• Appalachian Mountains: Oldest mountain range in North America\n• Interior Plains: Vast grasslands in the central United States\n• Rocky Mountains: Major mountain range in western North America\n• Basin and Range Region: Series of mountains and valleys in the southwest\n• Coastal Range: Mountains along the Pacific coast\n• Alaska: Contains the highest peak in North America (Denali)\n• Hawaii: Volcanic islands in the Pacific Ocean</string>
+    <string name="major_rivers_title">Major Rivers and Lakes</string>
+    <string name="major_rivers_content">• Mississippi River: Fourth longest river system in the world\n• Missouri River: Longest river in North America\n• Colorado River: Carved the Grand Canyon\n• Columbia River: Largest river in the Pacific Northwest\n• Rio Grande: Forms part of the US-Mexico border\n• Great Lakes: Largest group of freshwater lakes on Earth\n• Lake Okeechobee: Largest freshwater lake in Florida</string>
+    <string name="climate_title">Climate</string>
+    <string name="climate_content">The United States has a wide variety of climate types due to its large size and geographic features:\n• Northeast: Four distinct seasons with cold winters and warm summers\n• Southeast: Humid subtropical climate with mild winters and hot summers\n• Midwest: Continental climate with extreme seasonal variations\n• Great Plains: Semi-arid climate with hot summers and cold winters\n• Southwest: Arid desert climate\n• West Coast: Mediterranean climate with mild, wet winters and dry summers\n• Pacific Northwest: Oceanic climate with cool, wet winters and mild summers\n• Alaska: Subarctic and arctic climate\n• Hawaii: Tropical climate</string>
+    <string name="natural_wonders_title">Natural Wonders</string>
+    <string name="natural_wonders_content">• Grand Canyon (Arizona)\n• Yellowstone National Park (Wyoming, Montana, Idaho)\n• Niagara Falls (New York)\n• Mammoth Cave (Kentucky)\n• Everglades (Florida)\n• Redwood National Park (California)\n• Denali (Alaska)\n• Kilauea Volcano (Hawaii)\n• Monument Valley (Arizona/Utah)\n• Great Salt Lake (Utah)</string>
+    <!--  Traffic Rules  -->
+    <string name="traffic_rules_title">Traffic Rules in the USA</string>
+    <string name="traffic_signs_description">Traffic signs</string>
+    <string name="basic_rules_title">Basic Rules</string>
+    <string name="basic_rules_content">• Drive on the right side of the road\n• Wear seatbelts at all times (mandatory in all states)\n• Children must be in appropriate car seats\n• Stop for school buses with flashing red lights\n• Yield to emergency vehicles with sirens and lights\n• Right turn on red is generally allowed after stopping (unless signed otherwise)\n• Left turn on red is only allowed from a one-way street to another one-way street (in most states)</string>
+    <string name="speed_limits_title">Speed Limits</string>
+    <string name="speed_limits_content">Speed limits vary by state and road type, but generally:\n• School zones: 15-25 mph (24-40 km/h)\n• Residential areas: 25-35 mph (40-56 km/h)\n• Urban areas: 35-45 mph (56-72 km/h)\n• Rural roads: 55-65 mph (89-105 km/h)\n• Highways: 55-70 mph (89-113 km/h)\n• Interstate highways: 65-80 mph (105-129 km/h)</string>
+    <string name="road_signs_title">Road Signs</string>
+    <string name="road_signs_content">• Red: Stop, yield, or prohibition\n• Yellow: Warning or caution\n• Green: Direction or guidance\n• Blue: Services or information\n• Brown: Recreational or cultural interest\n• Orange: Construction or maintenance warning</string>
+    <string name="state_differences_title">State Differences</string>
+    <string name="state_differences_content">Traffic laws can vary significantly between states. Some notable differences include:\n• Speed limits on highways\n• Helmet laws for motorcyclists\n• Cell phone and texting restrictions\n• DUI/DWI blood alcohol concentration limits\n• Vehicle inspection requirements\n• Window tinting restrictions</string>
+    <string name="driving_tips_title">Tips for International Visitors</string>
+    <string name="driving_tips_content">• An International Driving Permit (IDP) is recommended along with your valid driver\'s license\n• Distances and speeds are measured in miles and miles per hour\n• Gas (petrol) is sold by the gallon\n• Four-way stops: vehicles proceed in the order they arrived\n• In most states, you must be 21 years old to rent a car\n• Always carry your driver\'s license, registration, and insurance information\n• Move over for stopped emergency vehicles\n• In case of an accident, call 911 and stay at the scene</string>
+    <!--  Visitor Information  -->
+    <string name="visitor_info_title">Essential Information for Visitors</string>
+    <string name="visitor_info_image_description">Visitor information</string>
+    <string name="visa_requirements_title">Visa Requirements</string>
+    <string name="visa_requirements_content">• Visa Waiver Program (ESTA): Citizens of 39 countries can visit for up to 90 days without a visa\n• Tourist Visa (B-2): Required for citizens of countries not in the Visa Waiver Program\n• Business Visa (B-1): For business-related activities\n• Student Visa (F-1): For academic studies\n• All visitors must have a valid passport\n• Check the U.S. Department of State website for the most current information</string>
+    <string name="currency_title">Currency and Payment</string>
+    <string name="currency_content">• Currency: U.S. Dollar (USD, $)\n• Major credit cards (Visa, MasterCard, American Express) are widely accepted\n• ATMs are readily available in most areas\n• Traveler\'s checks are less common now but still accepted in some places\n• Notify your bank before traveling to avoid card blocks\n• Sales tax varies by state and city (typically 4-10%)</string>
+    <string name="tipping_title">Tipping Culture</string>
+    <string name="tipping_content">Tipping is customary and often expected in the U.S.:\n• Restaurants: 15-20% of the pre-tax bill\n• Taxi/rideshare drivers: 15-20% of the fare\n• Hotel bellhop: $1-2 per bag\n• Housekeeping: $2-5 per day\n• Tour guides: 15-20% of the tour price\n• Bartenders: $1-2 per drink\n• Hairdressers/barbers: 15-20%</string>
+    <string name="transportation_title">Transportation</string>
+    <string name="transportation_content">• Air Travel: Extensive network of domestic flights\n• Trains: Amtrak provides service between major cities\n• Buses: Greyhound and other companies offer intercity service\n• Car Rental: Available at airports and in cities (international driver\'s license recommended)\n• Rideshare: Uber and Lyft operate in most cities\n• Public Transportation: Varies by city; more extensive in larger cities</string>
+    <string name="accommodation_title">Accommodation</string>
+    <string name="accommodation_content">• Hotels: Range from budget to luxury\n• Motels: Often found along highways\n• Bed and Breakfasts: Common in tourist areas\n• Vacation Rentals: Airbnb and VRBO are popular\n• Hostels: Available in major cities\n• Camping: National and state parks offer camping facilities</string>
+    <string name="safety_tips_title">Safety Tips</string>
+    <string name="safety_tips_content">• Emergency number: 911 (police, fire, medical)\n• Research your destination before traveling\n• Keep valuables secure and be aware of your surroundings\n• Have travel insurance that covers medical expenses\n• Carry a copy of your passport and keep the original in a safe place\n• Be aware of local laws and customs\n• Check weather forecasts and natural disaster risks\n• Register with your country\'s embassy or consulate</string>
+</resources>
